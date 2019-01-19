@@ -13,5 +13,6 @@ if(mail('rich12953@gmail.com', $subject, $comentario)){
 } else {
     echo "No se ha podido enviar el mensaje";
 }
+
 ?>
 
